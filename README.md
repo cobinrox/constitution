@@ -1,3 +1,4 @@
 # constitution
-Represents the pieces of the constitution
-Starting with the preamble of the constitution
+Represents the parts of the constitution
+Beginning with the preamble
+And the ammendments
